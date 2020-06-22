@@ -1,8 +1,2 @@
-print(23)
-print(23)
-print(23)
-print(23)
-print(23)
-print(23)
-print(23)
-print(23)
+
+print(9**19 - int(float(9**19)))
